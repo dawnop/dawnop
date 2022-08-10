@@ -3,6 +3,6 @@
 ### DAWNOP 👋
 
 - 📙 Focusing on Java, Compiler, and Programming Language Theory in my undergraduate.
-- 📘 Focusing on Computer Vision, and Image Tamper Detection in my postgraduate.
+- 📘 Focusing on AI, Computer Vision, and Image Tamper Detection in my postgraduate.
 - 🔨 Interested in Western Philosophy and Classic Music.
 
