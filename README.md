@@ -2,7 +2,8 @@
 
 ### DAWNOP 👋
 
-- 📙 Focusing on Java, Compiler, and Programming Language Theory in my undergraduate.
-- 📘 Focusing on AI, Computer Vision, and Image Manipulation Detection in my postgraduate.
-- 🔨 Interested in Classic Music, Japanese Anime, and Console Game.
+- 📙 During my undergraduate studies, I focused on JVM, compiler, and programming language theory.
+- 📘 In my postgraduate studies, I concentrated on GPU scheduling, CUDA, and computer vision.
+- 🖥️ At work, my focus is on MLSys and large-scale recommendation systems.
+- 🔨 I have a keen interest in music engineering, Japanese anime, and console games.
 
