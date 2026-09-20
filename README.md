@@ -1,9 +1,17 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dawnop&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+# Dawn
 
-### DAWNOP 👋
+⚙️ **Work** — I work on AI infra, mainly GPU kernels and training frameworks.
 
-- 📙 During my undergraduate studies, I focused on JVM, compiler, and programming language theory.
-- 📘 In my postgraduate studies, I concentrated on GPU scheduling, CUDA, and computer vision.
-- 🖥️ At work, my focus is on MLSys and large-scale recommendation systems.
-- 🔨 I have a keen interest in music engineering, Japanese anime, and console games.
+🧩 **For fun** — I build [Dawn](https://github.com/dawnop/dawn-lang), a self-hosted functional language with explicit effects. It compiles to:
 
+![JVM](https://img.shields.io/badge/JVM-52667A?style=flat-square) ![C](https://img.shields.io/badge/C-52667A?style=flat-square) ![NVIDIA GPU (cuTile)](https://img.shields.io/badge/NVIDIA_GPU_%28cuTile%29-76B900?style=flat-square)
+
+### Selected projects
+
+- [Mirai](https://github.com/dawnop/mirai) — compiles PyTorch models into deployable TF components backed by Triton PTX kernels.
+- [Blackwell GPU Wiki 中文翻译](https://github.com/dawnop/blackwell-gpu-wiki-zh) — translation and corrections.
+- [HRGR-IMD](https://github.com/OUC-VAS/HRGR-IMD) — image manipulation detection research (ICME 2025).
+
+[Blog](https://dawnop.com) — **backend written in Dawn, my own language** · [Source](https://github.com/dawnop/dawnop-site)
+
+Music engineering · Anime · Console games
