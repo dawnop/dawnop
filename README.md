@@ -1,6 +1,6 @@
 # Dawn
 
-⚙️ **Work** — I work on AI infra, mainly GPU kernels and training frameworks.
+⚙️ **Work** — I work on AI infra, mainly GPU kernels and training frameworks. I'm a [FlashAttention-4 contributor](https://github.com/Dao-AILab/flash-attention/pull/2869).
 
 🧩 **For fun** — I build [Dawn](https://github.com/dawnop/dawn-lang), a self-hosted functional language with explicit effects. It compiles to:
 
