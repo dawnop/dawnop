@@ -4,7 +4,7 @@
 
 🧩 **For fun** — I build [Dawn](https://github.com/dawnop/dawn-lang), a self-hosted functional language with explicit effects. It compiles to:
 
-![JVM](https://img.shields.io/badge/JVM-52667A?style=flat-square) ![C](https://img.shields.io/badge/C-52667A?style=flat-square) ![NVIDIA GPU (cuTile)](https://img.shields.io/badge/NVIDIA_GPU_%28cuTile%29-76B900?style=flat-square)
+![JVM](https://img.shields.io/badge/JVM-52667A?style=flat-square)&nbsp;![C](https://img.shields.io/badge/C-52667A?style=flat-square)&nbsp;![NVIDIA GPU (cuTile)](https://img.shields.io/badge/NVIDIA_GPU_%28cuTile%29-76B900?style=flat-square)
 
 ### Selected projects
 
