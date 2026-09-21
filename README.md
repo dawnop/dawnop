@@ -4,7 +4,7 @@
 
 🧩 **For fun:** I build [Dawn](https://github.com/dawnop/dawn-lang), a self-hosted functional language with explicit effects.
 
-It compiles to:&nbsp;![JVM](https://img.shields.io/badge/JVM-52667A?style=flat-square)&nbsp;![C](https://img.shields.io/badge/C-52667A?style=flat-square)&nbsp;![NVIDIA GPU (cuTile)](https://img.shields.io/badge/NVIDIA_GPU_%28cuTile%29-76B900?style=flat-square)
+It compiles to:&nbsp;[![JVM](https://img.shields.io/badge/JVM-52667A?style=flat-square)](https://github.com/dawnop/dawn-lang/blob/main/examples/interop/interop.dawn)&nbsp;[![C](https://img.shields.io/badge/C-52667A?style=flat-square)](https://github.com/dawnop/dawn-lang/blob/main/selfhost/src/c/emitc.dawn)&nbsp;[![NVIDIA GPU (cuTile)](https://img.shields.io/badge/NVIDIA_GPU_%28cuTile%29-76B900?style=flat-square)](https://github.com/dawnop/dawn-lang/blob/main/examples/projects/gpu_fake/src/main.dawn)
 
 ### Selected projects
 
